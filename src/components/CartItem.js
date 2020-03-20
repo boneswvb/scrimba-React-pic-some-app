@@ -1,7 +1,7 @@
 import React, {useState, useContext} from "react"
 import {Context} from "../Context"
 
-function CartItem({item}) {
+const CartItem = ({item}) => {
     const [hovered, setHovered] = useState(false)
     const {removeFromCart} = useContext(Context)
     
