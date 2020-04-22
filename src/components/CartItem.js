@@ -17,7 +17,7 @@ const CartItem = ({item}) => {
             >
             </i>
             
-            <img alt={""} src={item.url} width="130px" />
+            <img className="img" alt={""} src={item.url} width="130px" />
             <p>$5.99</p>
         </div>
     )
