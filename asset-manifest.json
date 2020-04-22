@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scrimba-react-pic-some-app/static/css/main.40d4f8c5.chunk.css",
+    "main.js": "/scrimba-react-pic-some-app/static/js/main.0b95e31e.chunk.js",
+    "main.js.map": "/scrimba-react-pic-some-app/static/js/main.0b95e31e.chunk.js.map",
+    "runtime-main.js": "/scrimba-react-pic-some-app/static/js/runtime-main.d9e90999.js",
+    "runtime-main.js.map": "/scrimba-react-pic-some-app/static/js/runtime-main.d9e90999.js.map",
+    "static/js/2.91d1e597.chunk.js": "/scrimba-react-pic-some-app/static/js/2.91d1e597.chunk.js",
+    "static/js/2.91d1e597.chunk.js.map": "/scrimba-react-pic-some-app/static/js/2.91d1e597.chunk.js.map",
+    "index.html": "/scrimba-react-pic-some-app/index.html",
+    "precache-manifest.ae9162b87014709559635869eacbc29d.js": "/scrimba-react-pic-some-app/precache-manifest.ae9162b87014709559635869eacbc29d.js",
+    "service-worker.js": "/scrimba-react-pic-some-app/service-worker.js",
+    "static/css/main.40d4f8c5.chunk.css.map": "/scrimba-react-pic-some-app/static/css/main.40d4f8c5.chunk.css.map",
+    "static/js/2.91d1e597.chunk.js.LICENSE.txt": "/scrimba-react-pic-some-app/static/js/2.91d1e597.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e90999.js",
+    "static/js/2.91d1e597.chunk.js",
+    "static/css/main.40d4f8c5.chunk.css",
+    "static/js/main.0b95e31e.chunk.js"
+  ]
+}
